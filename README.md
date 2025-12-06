@@ -12,6 +12,7 @@
 <p>Hey! This profile is dedicated to come every project that i developed,  wheter with crews or alone. My documentations are in english with a video introducing the tool.<br><br>If you want contact me for we can working together.</p>
 
 ###
+<hr>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
