@@ -5,8 +5,6 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
-<p align="center">Muito prazer! Esse perfil está dedicado a trazer todos os projetos e trabalhos que eu mesmo desenvolvi, seja com equipes ou sozinho. Suas documentações estarão em inglês seguidos de um vídeo apresentando a ferramenta!<
   
 <p align="center">Hey! This profile is dedicated to come every project that i developed,  wheter with crews or alone. My documentations are in english with a video introducing the tool.</p>
 
